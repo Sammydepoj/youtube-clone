@@ -54,3 +54,14 @@
   /* background-color: blue; */
   outline: 1px solid rgba(0, 0, 0, 0.1);
 }
+.header-section .section1{
+  padding: 1rem auto;
+}
+form{
+margin: 1rem auto;
+}
+form input[type="text"]{
+border-radius: 3rem;
+outline: none;
+padding:0rem  2rem 0.2rem 0.2rem;
+}
